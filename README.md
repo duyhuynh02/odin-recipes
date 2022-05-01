@@ -1,2 +1,2 @@
 # odin-recipes
-Start learning HTML. 
+https://imnikz.github.io/odin-recipes/
